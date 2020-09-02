@@ -6,3 +6,15 @@ body {
     padding-right: 6%;
     padding-left: 6%;
 }
+
+.conteudo__texto {
+    padding: .7rem;
+    text-align: center;
+    font-weight: 300;
+}   
+
+.conteudo__titulo {
+    text-align: center;
+    padding: 1.7rem;
+    font-weight: 400;
+}

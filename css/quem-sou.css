@@ -2,12 +2,10 @@
     background-image: url(../img/perfil.jpg);
     background-size: cover;
     padding-bottom: 2rem;
-    /* background-repeat: no-repeat; */
-    /* background-position: center; */
 }
 
 .quemSou__meuNome {
-    opacity: unset;
+    font-weight: 700;
     text-align: center;
     font-size: 40px;
     padding-top: 2rem;
@@ -16,11 +14,6 @@
 
 .quem-sou__foto-perfil {
     display: none;
-}
-
-.conteudo__texto {
-    padding: .7rem;
-    text-align: center;
 }
 
 .chamada {
