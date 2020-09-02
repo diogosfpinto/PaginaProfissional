@@ -1,0 +1,28 @@
+.conteudo__quem-sou {
+    background-image: url(../img/perfil.jpg);
+    background-size: cover;
+    padding-bottom: 2rem;
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+}
+
+.quemSou__meuNome {
+    opacity: unset;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 2rem;
+    padding-bottom: 8rem;
+}
+
+.quem-sou__foto-perfil {
+    display: none;
+}
+
+.conteudo__texto {
+    padding: .7rem;
+    text-align: center;
+}
+
+.chamada {
+    text-align: end;
+}
