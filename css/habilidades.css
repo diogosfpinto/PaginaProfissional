@@ -1,0 +1,20 @@
+.conteudo__habilidades {
+    background: rgb(136,200,196, 0.8);
+    padding-bottom: 2.5rem;
+}
+
+.conteudo__lista-habilidades {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.conteudo__lista-habilidades li {
+    padding: 0 2rem;
+}
+
+.imagem__lista-habilidades {
+    width: 70px;
+}
