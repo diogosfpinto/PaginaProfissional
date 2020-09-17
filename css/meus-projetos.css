@@ -1,0 +1,9 @@
+.conteudo__meus-projetos {
+    background: rgba(226,186,140, 0.8);
+}
+
+.conteudo__botao {
+    display: block;
+    text-align: center;
+    padding-top: 2.5rem;
+}

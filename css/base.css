@@ -5,6 +5,7 @@ body {
 .container {
     padding-right: 6%;
     padding-left: 6%;
+    padding-bottom: 2.5rem;
 }
 
 .conteudo__texto {
