@@ -1,0 +1,20 @@
+.conteudo__redes-sociais {
+    background: rgba(184,198,246, 0.8);
+}
+
+.conteudo__lista-redes-sociais {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.conteudo__lista-redes-sociais li {
+    padding: 0 2rem;
+}
+
+.imagem__lista-redes-sociais {
+    width: 50px;
+    padding: 1.5rem 1.5rem;
+}
