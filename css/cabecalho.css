@@ -23,3 +23,16 @@
     padding-bottom: 1.2rem;
     border-bottom: white solid 1px;
 }
+
+@media screen and (min-width: 768px) {
+
+    .cabecalho {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+    }
+
+    .navegacao__menu {
+        flex-direction: row;
+    }
+}
