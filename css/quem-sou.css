@@ -1,6 +1,7 @@
 .conteudo__quem-sou {
     background-image: url(../img/perfil.jpg);
-    background-size: cover;
+    background-position: 30% 20%;
+    background-size: cover;    
     height: 100vh;
     display: flex;
     flex-direction: column;
